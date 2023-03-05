@@ -1,0 +1,63 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+ #aboutus{
+    padding-left:150px;
+    margin-right:500px;
+    font-size:20px;
+    
+
+}
+.sevice-header{
+    margin:130px 0px 10px 2%;
+    font-size:18px;
+}
+#abt2 {
+    padding:20px 0px 0px 50px;
+    
+    font-size:15px;
+}
+    
+.service{
+    background-color: rgba(202, 198, 198, 0.637);
+    border-radius:15px;
+    margin:0px 200px 20px 0px;
+    padding-bottom:10px;
+    
+    
+}
+.service p{
+    width:400px;
+    text-align:left;
+    margin-left:5%;
+    margin:20px;
+    font-size:16px;
+    font-weight: 500;
+}    
+.registration{
+    padding:30px;
+    width:250px;
+    margin:-450px 150px 0px 0px;;
+    color:aliceblue;
+    float:right;
+    background-color:rgba(29, 29, 75, 0.836)
+    
+}
+.registration h1{
+    font-size:18px;
+}
+.registration label{
+    
+}
+.registration input{
+    padding:7px 0px 7px 0px;
+}
+.submit{
+    margin-top:10px;
+    background-color: orangered;
+    color:aliceblue;
+}
+#hi{
+    margin-bottom: 100px;
+}
